@@ -1,0 +1,9 @@
+# le titre du site
+title: Ma ville, ma région !
+# la description du site
+description: Tout ce que vous avez toujours voulu savoir sur ma ville et ma région sans savoir jamais osé le demander.
+# le thème graphique GitHub à utiliser
+remote_theme: pages-themes/dinky@v0.2.0
+# cette option est nécessaire pour que GitHub utilise les thèmes
+plugins:
+  - jekyll-remote-theme
