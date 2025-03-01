@@ -1,0 +1,20 @@
+.liste-vetements {
+    display: grid;
+    grid-template-columns: 500px;
+    gap: 10px;
+    margin: 20px 0 20px 700px;
+
+}
+
+.ligne {
+    height: 40px;
+    border: 2px black solid;
+    text-align: center;
+    padding-top: 15px;
+    background-color: #d5bdaf;
+}
+
+.ligne:hover {
+    text-decoration: none;
+    opacity: 0.7;
+}
